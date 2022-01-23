@@ -12,4 +12,4 @@ Usage of the repository for the paper "Searching for a new probability distribut
 
 4. Using the outputs of ego_twitter_output.csv file, we obtain the graphs (Plots of degree distributions along with different proabbility distributions) for our paper and the codes are given in figures_plots.m (MATLAB implementation file). 
 
-5. Reults obtained in the paper for ego_twitter data can directly be computed along with the graphs and figures using the implementation files and data sets (along with outputs) given in this repository for replicability and sake of reproducibility of our paper. 
+5. Reults obtained in the paper for ego_twitter data can directly be computed along with the graphs and figures using the implementation files and data sets (along with outputs) given in this repository for replicability and sake of reproducibility of our paper. The rest of the data sets can be obtained from this link: http://snap.stanford.edu/data/index.html and similarly the implementations will be alike as shown for ego_twitter data set.  
