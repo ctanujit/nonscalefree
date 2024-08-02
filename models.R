@@ -1190,7 +1190,7 @@ write.csv(finaloutput,'output_twitter_powerlaw_cutoff.csv')
 
 
 
-#################################### Exponentiaal distribution ######################
+#################################### Exponential distribution ######################
 
 rm(list = ls())
 
